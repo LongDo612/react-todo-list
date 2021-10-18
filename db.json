@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "text": ".NET C#",
+      "day": "at least 2 days from Sep 6th",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Data Structure and Algorithm",
+      "day": "No bound",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "JP Practice",
+      "day": "No bound",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "Cleaning house",
+      "day": "Everyday",
+      "reminder": true,
+      "id": 5
+    }
+  ]
+}
